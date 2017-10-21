@@ -1,0 +1,8 @@
+*.o
+__.SYMDEF
+
+*.class
+*.jar
+
+# This is product.
+/hello
