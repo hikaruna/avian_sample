@@ -1,0 +1,3 @@
+[submodule "avian"]
+	path = avian
+	url = git@github.com:ReadyTalk/avian.git
